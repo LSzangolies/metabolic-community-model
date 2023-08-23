@@ -1,1 +1,1 @@
-# metabolic-community-model
+# Metabolic individual-based community model
